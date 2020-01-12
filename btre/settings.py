@@ -147,11 +147,6 @@ MESSAGE_TAGS = {
 # Email config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-<<<<<<< HEAD
-EMAIL_HOST_USER = 'pass@gmail.com'
-EMAIL_HOST_PASSWORD = 'randompass'
-=======
 EMAIL_HOST_USER = 'hithgor1@gmail.com'
 EMAIL_HOST_PASSWORD = 'abcdefgh'
->>>>>>> 4d98f0d... Initial commit of btre project
 EMAIL_USE_TLS = True
